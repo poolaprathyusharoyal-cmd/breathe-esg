@@ -15,4 +15,4 @@ Tech Stack:
 - SQLite
 
 Author:
-Prathyusha Poola
+Poola Prathyusha 
